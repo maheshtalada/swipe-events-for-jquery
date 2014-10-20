@@ -1,3 +1,5 @@
+// testing
+
 // swipe events are added to jQuery event modal
 // so ignore using any other plugins
 //TODO : add tap & tap hold if needed
